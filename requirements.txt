@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+google-cloud-aiplatform
+google-cloud-logging
+google-cloud-vision
+python-dotenv
